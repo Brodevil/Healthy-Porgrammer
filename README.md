@@ -6,4 +6,12 @@ A program which will remind the programmer to drank water, Do eyes Exercise and 
 3. The program will remind to Do Physical Activity at every 40 min.
 
 The data will be store in the file so that our Activity can store
-# The Program will play the songs due to reminding the program
+You should save the Water.mp3, Physical.mp3 and Eyes.mp3 in your directory so that the program will run it and notifide you 
+The Program will play the songs due to reminding the program
+
+REQUIREMENT :- 
+1. Time Module
+2. From pygame we needed Mixer
+3. Datetime Module
+
+That's it
