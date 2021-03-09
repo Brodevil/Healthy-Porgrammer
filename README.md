@@ -5,7 +5,7 @@ A program which will remind the programmer to drank water, Do eyes Exercise and 
 2. The program will remind to Do eyes Exercises at every 30 min.
 3. The program will remind to Do Physical Activity at every 40 min.
 
-The data will be store in the file so that our Activity can store
+The data will be store in the file so that our Activity can store, When you will start to use the Program, Python will automatically make a file to store data.
 You should save the Water.mp3, Physical.mp3 and Eyes.mp3 in your directory so that the program will run it and notifide you 
 The Program will play the songs due to reminding the program
 
