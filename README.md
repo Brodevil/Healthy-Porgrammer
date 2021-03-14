@@ -19,7 +19,7 @@ The data will be store in the file so that our Activity can store, When you will
 You should save the Water.mp3, Physical.mp3 and Eyes.mp3 in your directory so that the program will run it and notifide you 
 The Program will play the songs due to reminding the program
 
-REQUIREMENT :- 
+# REQUIREMENT  
 1. Time Module
 2. From pygame we needed Mixer
 3. Datetime Module
